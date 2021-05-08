@@ -2,7 +2,7 @@
 
 This is a my Week 3: Module 1 program. I created this to demonstrate what I have learned about mobile app design.
 
-Here is a video walkthrough of my code: [Software Demo Video](https://youtu.be/gOres9V9S3M)
+Here is a video walkthrough of my code: [Software Demo Video](https://youtu.be/NiPBSrtzMp4)
 
 # Development Environment
 
